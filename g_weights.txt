@@ -1,0 +1,6 @@
+gender 0.0198
+institution 0.1732
+job_title 0.2461
+last_name 0.2702
+place 0.2607
+university 0.0301

@@ -1,0 +1,7 @@
+locale;anonymized 0.0472
+gender;anonymized 0.0263
+education;type;anonymized 0.0841
+education;school;id;anonymized 0.3746
+education;year;id;anonymized 0.1192
+location;id;anonymized 0.2312
+birthday;anonymized 0.1173
